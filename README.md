@@ -1,4 +1,3 @@
-```html
 <a href="https://github.com/snavoht-collab/snavoht-collab">
   <picture>
     <source
@@ -9,4 +8,3 @@
       src="https://raw.githubusercontent.com/snavoht-colalb/snavoht-collab/main/light_mode.svg">
   </picture>
 </a>
-```
